@@ -1,0 +1,38 @@
+MediCare Project Overview
+=========================
+
+1. What the project is doing
+----------------------------
+MediCare is an AI-powered clinic management system designed to modernize healthcare scheduling. It handles patient appointments, walk-in queues, and provides a comprehensive dashboard for receptionists. The standout feature is its integration of a Machine Learning (ML) service to intelligently predict the duration of medical consultations, which optimizes wait times and clinic scheduling.
+
+2. How it works
+---------------
+The project follows a modern three-tier architecture:
+
+- Frontend (React + Vite + TailwindCSS):
+  Provides multiple specialized user interfaces:
+  * Patient Home & Booking: Interface for patients to schedule appointments.
+  * Patient Tracking: A live status page where patients can track their turn in the queue.
+  * Walk-in Kiosk: A targeted page (often accessed via QR code) for walk-in patients to register themselves.
+  * Receptionist Dashboard: A centralized control panel for clinic staff to manage the live queue, review analytics, and oversee operations.
+
+- Backend (Node.js + Express + MongoDB + Socket.io):
+  Acts as the central orchestrator:
+  * Handles RESTful APIs for authentication, clinic management, and appointment scheduling.
+  * Manages the database schema using Mongoose (models include Clinic, Patient, DoctorSchedule, ConsultationHistory).
+  * Uses WebSockets (Socket.io) to broadcast real-time updates to connected clients (e.g., when a patient's turn arrives).
+  * Communicates with the ML service to request duration predictions when a new appointment is booked.
+
+- ML Service (Python + FastAPI + Scikit-Learn):
+  A standalone prediction engine:
+  * Uses a trained machine learning model (e.g., Random Forest) to predict how long a consultation will take based on factors like patient age, visit type, first-visit status, day of the week, and time of day.
+  * Exposes endpoints for single predictions (`/predict`), batch predictions (`/predict-batch`), and continuous learning (`/retrain`) where the model can be updated with real-world data (actual consultation durations) mixed with synthetic data.
+
+3. Key Features Used
+--------------------
+- AI Duration Prediction: Dynamically estimates appointment lengths instead of using static time slots.
+- Real-Time Queue Management: Live updates across all devices without needing to refresh the page, powered by WebSockets.
+- Walk-in Integration: Seamlessly merges pre-booked appointments with spontaneous walk-in patients into a single intelligent queue.
+- Continuous Learning Loop: The backend sends completed consultation data back to the Python service to retrain and improve the model over time.
+- Clinic Analytics: Data visualization and metrics available on the receptionist dashboard.
+- Secure Authentication: JWT-based login for clinic staff (Receptionists).

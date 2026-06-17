@@ -1,0 +1,601 @@
+age,visitType,firstVisit,dayOfWeek,timeOfDay,consultationDuration
+82,General Consultation,Yes,Saturday,Afternoon,15
+14,General Consultation,No,Monday,Morning,9
+28,Blood Pressure,Yes,Friday,Morning,16
+58,Skin Consultation,Yes,Tuesday,Evening,19
+36,Diabetes,Yes,Wednesday,Morning,17
+13,Child Consultation,No,Friday,Afternoon,12
+59,General Consultation,No,Monday,Evening,12
+81,Child Consultation,Yes,Saturday,Morning,17
+11,Blood Pressure,Yes,Thursday,Afternoon,21
+21,Child Consultation,No,Tuesday,Evening,16
+83,General Consultation,Yes,Friday,Evening,17
+49,Skin Consultation,Yes,Saturday,Afternoon,12
+5,Child Consultation,No,Wednesday,Morning,18
+41,Blood Pressure,No,Thursday,Evening,15
+19,Skin Consultation,Yes,Tuesday,Evening,21
+75,Follow-up,No,Wednesday,Morning,11
+64,General Consultation,Yes,Monday,Morning,15
+50,Follow-up,No,Friday,Afternoon,9
+2,General Consultation,No,Saturday,Afternoon,11
+56,Diabetes,No,Monday,Evening,16
+65,Diabetes,Yes,Saturday,Afternoon,27
+20,Child Consultation,Yes,Friday,Evening,15
+63,Fever,Yes,Wednesday,Afternoon,8
+73,General Consultation,Yes,Saturday,Afternoon,16
+17,First Visit,Yes,Friday,Morning,27
+28,Blood Pressure,No,Thursday,Evening,13
+57,First Visit,Yes,Monday,Morning,23
+44,Fever,Yes,Friday,Morning,5
+81,Fever,Yes,Monday,Morning,9
+36,First Visit,Yes,Tuesday,Evening,23
+32,First Visit,Yes,Thursday,Morning,19
+85,Follow-up,No,Thursday,Afternoon,9
+84,General Consultation,Yes,Thursday,Evening,16
+25,Blood Pressure,No,Tuesday,Afternoon,10
+36,First Visit,Yes,Tuesday,Morning,30
+7,Fever,Yes,Tuesday,Morning,13
+28,Follow-up,Yes,Tuesday,Afternoon,9
+34,First Visit,Yes,Wednesday,Afternoon,32
+25,Skin Consultation,Yes,Monday,Evening,19
+41,Fever,Yes,Friday,Afternoon,10
+8,General Consultation,Yes,Monday,Evening,14
+52,General Consultation,Yes,Friday,Evening,9
+54,Child Consultation,No,Tuesday,Evening,17
+31,Skin Consultation,No,Tuesday,Evening,14
+59,Child Consultation,Yes,Monday,Afternoon,22
+10,Blood Pressure,No,Tuesday,Afternoon,10
+48,Skin Consultation,Yes,Thursday,Evening,15
+71,Skin Consultation,Yes,Tuesday,Afternoon,14
+35,Skin Consultation,Yes,Saturday,Afternoon,16
+65,First Visit,Yes,Wednesday,Morning,24
+6,Fever,No,Tuesday,Evening,7
+57,Follow-up,Yes,Monday,Morning,12
+70,Fever,No,Friday,Evening,9
+17,Fever,No,Wednesday,Morning,6
+27,Blood Pressure,Yes,Wednesday,Evening,16
+31,Diabetes,Yes,Thursday,Morning,17
+53,Blood Pressure,No,Tuesday,Evening,9
+49,Fever,No,Tuesday,Morning,7
+45,Skin Consultation,Yes,Tuesday,Morning,17
+43,Skin Consultation,Yes,Wednesday,Afternoon,22
+69,Child Consultation,Yes,Monday,Afternoon,22
+5,General Consultation,No,Wednesday,Evening,15
+78,General Consultation,No,Friday,Morning,13
+56,Fever,Yes,Wednesday,Afternoon,7
+80,Child Consultation,Yes,Saturday,Afternoon,27
+42,Follow-up,No,Friday,Morning,6
+54,Follow-up,Yes,Friday,Evening,11
+71,Fever,No,Wednesday,Morning,12
+78,Child Consultation,No,Thursday,Afternoon,24
+66,First Visit,Yes,Saturday,Morning,23
+12,Blood Pressure,No,Tuesday,Morning,10
+4,Fever,Yes,Thursday,Evening,10
+81,Blood Pressure,No,Thursday,Afternoon,13
+84,Fever,Yes,Thursday,Morning,14
+7,Blood Pressure,Yes,Thursday,Morning,21
+57,Follow-up,No,Tuesday,Evening,8
+58,Skin Consultation,Yes,Saturday,Afternoon,22
+81,Blood Pressure,No,Thursday,Morning,14
+35,Child Consultation,No,Friday,Morning,14
+20,Blood Pressure,No,Saturday,Morning,11
+9,Follow-up,No,Wednesday,Evening,10
+8,Blood Pressure,No,Thursday,Evening,11
+49,First Visit,Yes,Monday,Afternoon,28
+54,Blood Pressure,No,Tuesday,Afternoon,14
+63,Fever,No,Wednesday,Evening,9
+60,Diabetes,Yes,Thursday,Evening,13
+83,Follow-up,Yes,Thursday,Morning,12
+42,Blood Pressure,No,Wednesday,Afternoon,14
+36,Follow-up,No,Monday,Afternoon,5
+70,Fever,No,Tuesday,Evening,5
+4,Blood Pressure,Yes,Monday,Evening,13
+61,General Consultation,Yes,Thursday,Evening,17
+78,General Consultation,Yes,Wednesday,Morning,15
+51,Blood Pressure,Yes,Friday,Evening,12
+39,General Consultation,Yes,Wednesday,Evening,17
+9,Child Consultation,Yes,Thursday,Afternoon,18
+82,First Visit,Yes,Saturday,Morning,33
+79,First Visit,Yes,Thursday,Afternoon,28
+12,Skin Consultation,No,Tuesday,Afternoon,16
+44,Fever,No,Wednesday,Morning,7
+28,Child Consultation,No,Wednesday,Afternoon,21
+36,Fever,Yes,Monday,Morning,11
+72,Blood Pressure,No,Saturday,Evening,19
+3,General Consultation,No,Tuesday,Afternoon,13
+85,Child Consultation,No,Friday,Evening,21
+71,Child Consultation,No,Saturday,Afternoon,19
+33,Blood Pressure,Yes,Saturday,Morning,14
+69,Diabetes,Yes,Tuesday,Evening,25
+13,Blood Pressure,No,Tuesday,Afternoon,10
+39,Fever,Yes,Wednesday,Morning,7
+17,First Visit,Yes,Monday,Morning,28
+62,First Visit,Yes,Wednesday,Morning,23
+15,General Consultation,No,Thursday,Morning,8
+20,Diabetes,No,Monday,Morning,13
+72,Follow-up,Yes,Friday,Afternoon,15
+76,Follow-up,No,Friday,Evening,10
+13,Blood Pressure,Yes,Wednesday,Evening,11
+31,Diabetes,Yes,Tuesday,Morning,22
+77,First Visit,Yes,Wednesday,Morning,28
+59,General Consultation,Yes,Wednesday,Evening,15
+15,Blood Pressure,Yes,Wednesday,Morning,10
+22,Skin Consultation,No,Thursday,Morning,17
+39,Follow-up,No,Friday,Evening,8
+57,General Consultation,Yes,Thursday,Evening,16
+4,General Consultation,Yes,Saturday,Evening,14
+74,Fever,Yes,Thursday,Evening,12
+75,Follow-up,No,Monday,Afternoon,11
+43,Child Consultation,Yes,Tuesday,Afternoon,22
+37,Follow-up,Yes,Thursday,Morning,10
+42,General Consultation,No,Friday,Morning,15
+53,Fever,Yes,Friday,Afternoon,12
+81,First Visit,Yes,Monday,Morning,30
+37,First Visit,Yes,Saturday,Afternoon,19
+81,Blood Pressure,Yes,Wednesday,Evening,17
+12,Blood Pressure,Yes,Thursday,Morning,14
+38,Skin Consultation,No,Thursday,Afternoon,13
+59,Diabetes,No,Tuesday,Evening,20
+18,General Consultation,No,Thursday,Afternoon,12
+1,Skin Consultation,No,Friday,Evening,18
+58,First Visit,Yes,Wednesday,Afternoon,31
+42,Blood Pressure,Yes,Friday,Afternoon,15
+6,Child Consultation,No,Saturday,Afternoon,21
+84,Diabetes,No,Monday,Morning,25
+43,General Consultation,No,Monday,Evening,15
+2,Diabetes,No,Saturday,Morning,15
+34,Child Consultation,No,Saturday,Morning,17
+69,Follow-up,No,Saturday,Evening,13
+5,General Consultation,Yes,Saturday,Evening,14
+56,General Consultation,Yes,Thursday,Morning,13
+6,Child Consultation,Yes,Wednesday,Afternoon,21
+32,Follow-up,Yes,Tuesday,Morning,9
+80,Blood Pressure,No,Friday,Morning,15
+82,Skin Consultation,No,Wednesday,Evening,14
+37,Diabetes,Yes,Thursday,Afternoon,20
+33,First Visit,Yes,Wednesday,Morning,31
+14,Blood Pressure,No,Friday,Afternoon,12
+38,Fever,No,Wednesday,Morning,8
+7,First Visit,Yes,Wednesday,Morning,29
+80,Skin Consultation,Yes,Saturday,Morning,17
+5,Child Consultation,Yes,Monday,Afternoon,24
+23,Blood Pressure,Yes,Friday,Afternoon,14
+33,First Visit,Yes,Wednesday,Evening,26
+60,General Consultation,Yes,Tuesday,Evening,17
+12,Follow-up,Yes,Wednesday,Evening,9
+48,Skin Consultation,No,Saturday,Afternoon,11
+30,First Visit,Yes,Monday,Evening,27
+83,General Consultation,No,Saturday,Afternoon,15
+18,Fever,Yes,Wednesday,Afternoon,5
+31,Diabetes,No,Thursday,Afternoon,20
+54,Diabetes,No,Saturday,Morning,19
+79,Follow-up,No,Monday,Evening,9
+57,First Visit,Yes,Tuesday,Afternoon,21
+70,Child Consultation,Yes,Thursday,Afternoon,20
+12,Blood Pressure,Yes,Monday,Afternoon,13
+73,Blood Pressure,Yes,Friday,Morning,16
+19,Fever,No,Tuesday,Morning,8
+33,Diabetes,Yes,Saturday,Morning,15
+46,Blood Pressure,No,Monday,Morning,12
+7,Diabetes,No,Friday,Morning,15
+58,Child Consultation,Yes,Thursday,Evening,16
+85,Skin Consultation,No,Saturday,Morning,14
+52,Follow-up,Yes,Thursday,Evening,9
+11,Child Consultation,Yes,Monday,Morning,22
+49,Skin Consultation,No,Friday,Evening,16
+13,General Consultation,Yes,Thursday,Afternoon,15
+44,First Visit,Yes,Thursday,Afternoon,21
+55,Child Consultation,No,Wednesday,Morning,22
+61,General Consultation,Yes,Monday,Morning,18
+17,Fever,No,Saturday,Morning,7
+46,Follow-up,Yes,Wednesday,Evening,10
+14,Blood Pressure,Yes,Saturday,Afternoon,12
+45,Child Consultation,Yes,Wednesday,Evening,19
+72,Fever,No,Monday,Morning,9
+44,Child Consultation,Yes,Tuesday,Morning,25
+9,Diabetes,Yes,Monday,Evening,25
+54,First Visit,Yes,Wednesday,Morning,29
+42,General Consultation,Yes,Tuesday,Morning,9
+35,First Visit,Yes,Saturday,Afternoon,34
+54,Skin Consultation,Yes,Friday,Morning,19
+15,Skin Consultation,No,Friday,Evening,14
+6,Blood Pressure,No,Friday,Morning,9
+39,Blood Pressure,Yes,Wednesday,Afternoon,14
+1,First Visit,Yes,Saturday,Afternoon,25
+69,Blood Pressure,No,Monday,Afternoon,12
+3,First Visit,Yes,Monday,Afternoon,35
+82,Follow-up,No,Monday,Afternoon,8
+22,First Visit,Yes,Saturday,Afternoon,21
+14,Blood Pressure,No,Friday,Afternoon,9
+51,Skin Consultation,No,Tuesday,Afternoon,12
+10,General Consultation,Yes,Wednesday,Afternoon,12
+19,Skin Consultation,Yes,Tuesday,Evening,13
+23,First Visit,Yes,Thursday,Evening,32
+81,Child Consultation,Yes,Thursday,Morning,26
+36,Fever,No,Friday,Morning,6
+60,First Visit,Yes,Monday,Morning,29
+10,General Consultation,No,Thursday,Evening,10
+74,Blood Pressure,No,Friday,Afternoon,11
+58,General Consultation,No,Saturday,Morning,10
+6,Blood Pressure,No,Thursday,Evening,12
+48,Skin Consultation,No,Thursday,Afternoon,10
+81,Child Consultation,Yes,Wednesday,Morning,27
+33,Diabetes,No,Monday,Evening,14
+45,Skin Consultation,No,Tuesday,Evening,11
+40,Follow-up,No,Tuesday,Evening,10
+68,General Consultation,No,Friday,Afternoon,11
+40,Diabetes,Yes,Wednesday,Afternoon,17
+18,Diabetes,Yes,Wednesday,Morning,21
+85,Child Consultation,Yes,Friday,Afternoon,18
+80,Diabetes,No,Monday,Afternoon,19
+57,Skin Consultation,No,Tuesday,Evening,13
+40,First Visit,Yes,Tuesday,Afternoon,33
+37,Follow-up,No,Tuesday,Morning,9
+18,Skin Consultation,Yes,Saturday,Afternoon,16
+67,General Consultation,No,Monday,Morning,16
+66,Diabetes,No,Monday,Morning,22
+4,Follow-up,Yes,Thursday,Evening,12
+11,Child Consultation,Yes,Monday,Afternoon,19
+19,Diabetes,Yes,Wednesday,Afternoon,18
+58,Fever,Yes,Monday,Afternoon,7
+71,Follow-up,Yes,Wednesday,Morning,9
+31,Follow-up,No,Monday,Morning,8
+77,Fever,Yes,Saturday,Morning,11
+79,Child Consultation,Yes,Friday,Afternoon,18
+9,Fever,No,Thursday,Morning,9
+33,Fever,No,Monday,Afternoon,5
+85,General Consultation,No,Tuesday,Morning,18
+44,Diabetes,No,Saturday,Afternoon,14
+18,General Consultation,No,Monday,Afternoon,11
+6,Blood Pressure,Yes,Wednesday,Afternoon,21
+33,Fever,Yes,Wednesday,Afternoon,7
+35,General Consultation,No,Thursday,Afternoon,15
+50,Child Consultation,Yes,Thursday,Evening,22
+67,Skin Consultation,Yes,Saturday,Afternoon,17
+70,Skin Consultation,No,Monday,Morning,18
+40,First Visit,Yes,Friday,Evening,30
+57,Child Consultation,No,Monday,Evening,17
+79,Follow-up,No,Saturday,Morning,9
+47,Diabetes,Yes,Tuesday,Evening,20
+17,General Consultation,Yes,Saturday,Afternoon,17
+73,Fever,Yes,Saturday,Afternoon,13
+10,Diabetes,No,Thursday,Afternoon,17
+15,Fever,Yes,Thursday,Evening,8
+34,Skin Consultation,No,Tuesday,Evening,14
+63,Blood Pressure,Yes,Tuesday,Morning,21
+12,Child Consultation,No,Saturday,Morning,20
+70,Skin Consultation,No,Tuesday,Evening,15
+66,Blood Pressure,Yes,Tuesday,Morning,16
+47,Child Consultation,No,Friday,Morning,21
+12,General Consultation,No,Thursday,Evening,15
+68,Follow-up,No,Friday,Morning,9
+83,General Consultation,No,Thursday,Evening,15
+71,Diabetes,Yes,Thursday,Evening,15
+39,Diabetes,Yes,Wednesday,Evening,18
+67,Skin Consultation,Yes,Wednesday,Morning,23
+81,Skin Consultation,Yes,Friday,Evening,19
+22,Child Consultation,Yes,Monday,Morning,15
+84,Blood Pressure,No,Friday,Evening,12
+81,Skin Consultation,No,Thursday,Morning,19
+59,General Consultation,Yes,Tuesday,Afternoon,18
+60,Blood Pressure,No,Friday,Morning,13
+41,Child Consultation,No,Tuesday,Afternoon,20
+72,General Consultation,No,Tuesday,Afternoon,12
+58,Blood Pressure,Yes,Monday,Morning,16
+79,Follow-up,Yes,Tuesday,Afternoon,14
+21,First Visit,Yes,Friday,Afternoon,33
+64,Fever,Yes,Thursday,Evening,11
+75,Child Consultation,Yes,Monday,Afternoon,28
+37,Fever,Yes,Thursday,Morning,9
+52,Child Consultation,Yes,Thursday,Morning,23
+47,Skin Consultation,Yes,Thursday,Evening,20
+80,General Consultation,Yes,Monday,Afternoon,19
+19,Blood Pressure,No,Friday,Morning,8
+5,Diabetes,No,Thursday,Evening,20
+78,Diabetes,No,Friday,Afternoon,18
+79,Skin Consultation,No,Friday,Evening,22
+73,Skin Consultation,No,Monday,Afternoon,16
+54,Skin Consultation,Yes,Friday,Afternoon,16
+7,First Visit,Yes,Tuesday,Evening,30
+5,General Consultation,Yes,Monday,Afternoon,17
+53,Blood Pressure,No,Friday,Evening,15
+8,Diabetes,Yes,Friday,Afternoon,26
+41,Diabetes,No,Friday,Afternoon,20
+46,Skin Consultation,No,Tuesday,Morning,14
+72,Skin Consultation,Yes,Wednesday,Afternoon,20
+62,Child Consultation,No,Wednesday,Morning,26
+49,Follow-up,No,Tuesday,Afternoon,5
+37,General Consultation,No,Thursday,Evening,12
+62,Blood Pressure,Yes,Friday,Afternoon,15
+79,Blood Pressure,Yes,Monday,Evening,14
+13,Follow-up,No,Saturday,Afternoon,5
+18,Fever,Yes,Thursday,Evening,11
+84,Blood Pressure,No,Wednesday,Afternoon,9
+84,Blood Pressure,Yes,Tuesday,Afternoon,15
+64,Diabetes,No,Monday,Morning,21
+78,General Consultation,No,Wednesday,Afternoon,17
+65,First Visit,Yes,Wednesday,Morning,23
+59,Skin Consultation,Yes,Monday,Evening,18
+73,Blood Pressure,Yes,Friday,Evening,21
+12,Follow-up,Yes,Tuesday,Morning,11
+32,Fever,No,Thursday,Morning,7
+35,Child Consultation,No,Friday,Evening,21
+2,Skin Consultation,No,Saturday,Morning,13
+16,First Visit,Yes,Wednesday,Morning,30
+16,Skin Consultation,No,Friday,Morning,13
+18,First Visit,Yes,Tuesday,Afternoon,30
+71,First Visit,Yes,Friday,Evening,24
+68,First Visit,Yes,Friday,Evening,28
+8,Blood Pressure,Yes,Tuesday,Afternoon,18
+75,First Visit,Yes,Monday,Evening,34
+17,Follow-up,No,Friday,Morning,9
+60,Skin Consultation,Yes,Thursday,Afternoon,12
+75,General Consultation,Yes,Thursday,Afternoon,15
+9,First Visit,Yes,Monday,Afternoon,31
+83,Follow-up,No,Thursday,Afternoon,12
+11,Diabetes,No,Monday,Morning,22
+68,Diabetes,Yes,Monday,Morning,24
+69,Follow-up,Yes,Tuesday,Afternoon,12
+25,General Consultation,Yes,Saturday,Afternoon,10
+27,General Consultation,Yes,Friday,Morning,16
+32,Fever,No,Thursday,Morning,8
+28,Fever,Yes,Friday,Afternoon,8
+74,Child Consultation,Yes,Wednesday,Morning,29
+53,Skin Consultation,No,Monday,Evening,12
+81,Follow-up,No,Monday,Afternoon,14
+68,Child Consultation,No,Thursday,Morning,20
+24,First Visit,Yes,Tuesday,Morning,26
+60,Fever,No,Thursday,Evening,8
+18,Follow-up,Yes,Wednesday,Morning,8
+58,Child Consultation,Yes,Friday,Evening,16
+35,Follow-up,Yes,Monday,Morning,11
+62,Blood Pressure,No,Wednesday,Morning,13
+16,First Visit,Yes,Tuesday,Evening,25
+31,Child Consultation,No,Thursday,Afternoon,20
+84,Child Consultation,No,Wednesday,Afternoon,24
+60,General Consultation,No,Wednesday,Morning,13
+41,Follow-up,Yes,Friday,Morning,12
+3,Skin Consultation,No,Wednesday,Morning,15
+30,Follow-up,Yes,Thursday,Evening,13
+33,First Visit,Yes,Saturday,Evening,34
+22,Child Consultation,Yes,Tuesday,Evening,24
+24,Fever,Yes,Monday,Evening,5
+53,Diabetes,Yes,Monday,Evening,15
+28,First Visit,Yes,Wednesday,Morning,34
+3,Fever,No,Monday,Morning,11
+36,Skin Consultation,Yes,Friday,Evening,18
+14,General Consultation,Yes,Tuesday,Morning,15
+35,Follow-up,Yes,Wednesday,Afternoon,10
+29,Skin Consultation,Yes,Saturday,Evening,11
+52,Follow-up,No,Friday,Afternoon,5
+82,Fever,Yes,Monday,Afternoon,11
+68,Fever,Yes,Tuesday,Evening,15
+6,General Consultation,No,Friday,Evening,9
+41,Fever,Yes,Friday,Morning,8
+39,Diabetes,Yes,Friday,Afternoon,23
+50,Diabetes,Yes,Friday,Evening,18
+13,Follow-up,Yes,Monday,Afternoon,13
+42,Fever,No,Thursday,Afternoon,5
+46,Follow-up,No,Tuesday,Evening,9
+85,Follow-up,Yes,Friday,Afternoon,8
+35,Diabetes,No,Saturday,Evening,14
+50,Child Consultation,No,Monday,Morning,12
+40,First Visit,Yes,Wednesday,Afternoon,20
+12,Diabetes,No,Thursday,Evening,20
+66,Follow-up,Yes,Monday,Morning,13
+77,Child Consultation,No,Monday,Afternoon,22
+11,Blood Pressure,Yes,Saturday,Afternoon,14
+39,Skin Consultation,No,Tuesday,Morning,12
+56,Skin Consultation,No,Wednesday,Afternoon,11
+47,Skin Consultation,Yes,Saturday,Evening,19
+59,General Consultation,Yes,Wednesday,Morning,17
+80,Follow-up,No,Thursday,Afternoon,13
+18,Skin Consultation,No,Friday,Evening,13
+62,Child Consultation,Yes,Thursday,Afternoon,22
+42,Follow-up,No,Thursday,Afternoon,5
+73,Blood Pressure,Yes,Saturday,Evening,14
+57,Skin Consultation,Yes,Thursday,Evening,19
+82,Skin Consultation,Yes,Wednesday,Evening,20
+10,First Visit,Yes,Friday,Afternoon,34
+70,Fever,No,Saturday,Evening,9
+14,Blood Pressure,No,Tuesday,Evening,8
+73,Follow-up,No,Thursday,Morning,6
+34,Blood Pressure,Yes,Thursday,Afternoon,18
+76,Diabetes,No,Monday,Afternoon,16
+54,General Consultation,Yes,Saturday,Morning,16
+44,First Visit,Yes,Tuesday,Evening,33
+61,General Consultation,No,Saturday,Evening,18
+9,Skin Consultation,Yes,Saturday,Morning,13
+22,Blood Pressure,Yes,Friday,Morning,17
+60,Blood Pressure,No,Saturday,Morning,10
+82,Follow-up,No,Monday,Evening,11
+58,Follow-up,No,Monday,Evening,6
+27,Skin Consultation,Yes,Friday,Morning,20
+47,Child Consultation,Yes,Thursday,Morning,20
+68,Child Consultation,No,Friday,Afternoon,22
+45,Child Consultation,No,Friday,Morning,22
+39,General Consultation,Yes,Wednesday,Morning,14
+15,Diabetes,No,Saturday,Morning,20
+50,Follow-up,Yes,Friday,Afternoon,10
+63,Diabetes,Yes,Thursday,Afternoon,19
+58,Fever,No,Monday,Afternoon,5
+25,Follow-up,No,Thursday,Evening,8
+54,First Visit,Yes,Thursday,Morning,18
+29,Skin Consultation,Yes,Wednesday,Morning,21
+22,First Visit,Yes,Friday,Evening,31
+74,General Consultation,No,Friday,Afternoon,12
+70,Blood Pressure,No,Monday,Evening,14
+5,First Visit,Yes,Wednesday,Afternoon,20
+31,Blood Pressure,No,Saturday,Evening,14
+22,Diabetes,Yes,Tuesday,Morning,20
+77,Diabetes,No,Saturday,Afternoon,21
+35,General Consultation,Yes,Thursday,Morning,14
+17,Blood Pressure,Yes,Saturday,Afternoon,15
+63,Diabetes,No,Saturday,Afternoon,22
+10,General Consultation,No,Friday,Evening,15
+48,First Visit,Yes,Thursday,Afternoon,16
+59,Child Consultation,Yes,Friday,Afternoon,19
+28,First Visit,Yes,Wednesday,Afternoon,27
+71,Diabetes,No,Wednesday,Evening,13
+13,First Visit,Yes,Monday,Morning,24
+59,Fever,No,Tuesday,Evening,5
+84,Skin Consultation,Yes,Wednesday,Morning,19
+48,Diabetes,Yes,Thursday,Evening,18
+55,General Consultation,Yes,Monday,Morning,16
+17,Blood Pressure,No,Monday,Morning,13
+16,Follow-up,Yes,Thursday,Morning,10
+12,General Consultation,Yes,Wednesday,Afternoon,14
+49,Diabetes,Yes,Monday,Evening,14
+57,Child Consultation,Yes,Saturday,Evening,18
+79,First Visit,Yes,Tuesday,Morning,21
+76,Follow-up,No,Thursday,Afternoon,8
+36,General Consultation,Yes,Friday,Evening,13
+85,Skin Consultation,Yes,Friday,Evening,24
+38,Fever,Yes,Thursday,Afternoon,6
+64,General Consultation,Yes,Wednesday,Afternoon,18
+47,Diabetes,No,Monday,Morning,13
+2,Skin Consultation,Yes,Monday,Morning,22
+81,Follow-up,No,Saturday,Afternoon,10
+69,Diabetes,No,Monday,Afternoon,18
+27,Diabetes,No,Thursday,Evening,13
+40,Follow-up,Yes,Monday,Morning,9
+15,First Visit,Yes,Friday,Evening,19
+85,Diabetes,Yes,Monday,Evening,17
+64,Child Consultation,No,Tuesday,Afternoon,17
+16,Fever,No,Thursday,Afternoon,8
+9,Skin Consultation,Yes,Thursday,Afternoon,21
+64,Diabetes,No,Tuesday,Afternoon,18
+15,Blood Pressure,Yes,Monday,Morning,12
+61,Child Consultation,No,Tuesday,Morning,17
+84,Follow-up,Yes,Wednesday,Morning,14
+10,Child Consultation,Yes,Friday,Evening,15
+67,Fever,No,Monday,Afternoon,9
+42,General Consultation,No,Monday,Afternoon,11
+38,Skin Consultation,Yes,Thursday,Afternoon,19
+70,Blood Pressure,Yes,Monday,Afternoon,13
+82,Fever,No,Monday,Evening,10
+14,Blood Pressure,Yes,Thursday,Afternoon,10
+36,General Consultation,Yes,Tuesday,Evening,17
+59,General Consultation,Yes,Friday,Morning,15
+76,Fever,No,Saturday,Morning,8
+34,Child Consultation,No,Saturday,Evening,17
+41,First Visit,Yes,Wednesday,Morning,19
+18,General Consultation,Yes,Monday,Morning,19
+41,Follow-up,Yes,Friday,Afternoon,10
+40,First Visit,Yes,Wednesday,Morning,19
+39,Fever,Yes,Wednesday,Morning,6
+46,Follow-up,Yes,Saturday,Afternoon,9
+4,Follow-up,No,Friday,Evening,10
+13,First Visit,Yes,Monday,Morning,19
+8,Blood Pressure,Yes,Tuesday,Afternoon,17
+75,Skin Consultation,Yes,Monday,Morning,19
+12,Child Consultation,Yes,Monday,Afternoon,14
+74,Follow-up,No,Thursday,Morning,12
+23,Child Consultation,Yes,Tuesday,Afternoon,20
+20,Fever,Yes,Saturday,Afternoon,11
+71,First Visit,Yes,Monday,Morning,29
+54,Blood Pressure,Yes,Saturday,Evening,12
+46,First Visit,Yes,Friday,Afternoon,29
+50,Skin Consultation,Yes,Monday,Afternoon,14
+36,Fever,No,Friday,Afternoon,8
+30,Diabetes,Yes,Tuesday,Evening,18
+69,Fever,Yes,Friday,Afternoon,10
+31,Child Consultation,No,Friday,Morning,17
+73,Diabetes,Yes,Thursday,Evening,22
+5,General Consultation,Yes,Tuesday,Evening,16
+1,Child Consultation,Yes,Tuesday,Afternoon,17
+3,Diabetes,Yes,Monday,Evening,21
+85,Follow-up,Yes,Wednesday,Afternoon,11
+56,First Visit,Yes,Saturday,Afternoon,23
+29,Diabetes,No,Wednesday,Evening,16
+17,Diabetes,Yes,Saturday,Evening,19
+24,Child Consultation,Yes,Saturday,Evening,17
+19,Child Consultation,Yes,Tuesday,Afternoon,19
+82,General Consultation,No,Thursday,Morning,14
+32,General Consultation,No,Wednesday,Morning,8
+7,Follow-up,No,Saturday,Afternoon,8
+64,Follow-up,No,Friday,Afternoon,9
+74,Blood Pressure,Yes,Thursday,Morning,12
+41,Skin Consultation,Yes,Monday,Afternoon,16
+21,General Consultation,Yes,Wednesday,Evening,16
+56,Diabetes,No,Tuesday,Morning,13
+43,Blood Pressure,Yes,Thursday,Evening,15
+39,Blood Pressure,Yes,Monday,Afternoon,17
+7,Child Consultation,Yes,Thursday,Morning,23
+26,General Consultation,Yes,Tuesday,Morning,13
+61,General Consultation,No,Thursday,Afternoon,18
+12,Follow-up,Yes,Wednesday,Afternoon,9
+58,Fever,No,Thursday,Afternoon,6
+29,Skin Consultation,Yes,Tuesday,Evening,12
+45,Follow-up,Yes,Friday,Morning,12
+69,First Visit,Yes,Friday,Morning,34
+51,Fever,Yes,Monday,Afternoon,7
+28,Blood Pressure,Yes,Monday,Afternoon,13
+26,Diabetes,No,Wednesday,Evening,13
+12,Follow-up,No,Friday,Afternoon,7
+67,First Visit,Yes,Monday,Evening,33
+20,Diabetes,Yes,Monday,Evening,16
+69,Child Consultation,No,Wednesday,Afternoon,26
+74,First Visit,Yes,Monday,Morning,29
+80,Follow-up,Yes,Thursday,Afternoon,13
+61,Skin Consultation,No,Monday,Afternoon,17
+36,First Visit,Yes,Saturday,Evening,20
+18,Skin Consultation,No,Wednesday,Afternoon,16
+78,General Consultation,Yes,Thursday,Morning,21
+8,Diabetes,Yes,Wednesday,Evening,24
+68,Fever,Yes,Tuesday,Morning,7
+59,Fever,No,Saturday,Morning,6
+48,First Visit,Yes,Friday,Afternoon,19
+31,Child Consultation,No,Friday,Afternoon,14
+61,Child Consultation,No,Tuesday,Afternoon,16
+4,Follow-up,Yes,Tuesday,Evening,9
+27,Skin Consultation,No,Friday,Morning,10
+61,Diabetes,Yes,Friday,Morning,21
+83,Skin Consultation,No,Thursday,Afternoon,20
+28,First Visit,Yes,Wednesday,Evening,28
+1,Child Consultation,No,Wednesday,Evening,15
+9,Child Consultation,No,Saturday,Afternoon,18
+84,Skin Consultation,Yes,Tuesday,Evening,18
+85,Child Consultation,Yes,Saturday,Morning,29
+34,Follow-up,No,Thursday,Evening,5
+75,Blood Pressure,No,Saturday,Evening,16
+82,First Visit,Yes,Saturday,Afternoon,28
+38,General Consultation,No,Tuesday,Evening,12
+72,Diabetes,No,Saturday,Morning,18
+29,Skin Consultation,No,Wednesday,Afternoon,14
+75,Skin Consultation,No,Monday,Afternoon,15
+75,General Consultation,No,Tuesday,Evening,13
+68,Skin Consultation,No,Monday,Morning,14
+44,Follow-up,No,Tuesday,Afternoon,10
+24,General Consultation,No,Wednesday,Evening,10
+41,Fever,Yes,Thursday,Afternoon,7
+74,Diabetes,No,Monday,Morning,22
+52,Follow-up,No,Thursday,Morning,5
+69,Blood Pressure,No,Monday,Afternoon,12
+1,Blood Pressure,Yes,Saturday,Afternoon,14
+50,Skin Consultation,Yes,Monday,Morning,17
+59,Child Consultation,No,Saturday,Morning,17
+63,Child Consultation,Yes,Tuesday,Afternoon,16
+17,Blood Pressure,Yes,Friday,Evening,11
+47,Fever,No,Saturday,Afternoon,8
+80,Fever,Yes,Saturday,Morning,6
+54,First Visit,Yes,Thursday,Morning,27
+20,Blood Pressure,Yes,Wednesday,Afternoon,12
+80,Diabetes,No,Monday,Evening,16
+15,General Consultation,No,Tuesday,Evening,11
+34,Blood Pressure,No,Saturday,Afternoon,12
+21,Fever,No,Tuesday,Evening,7
+43,Blood Pressure,Yes,Monday,Evening,10
+74,First Visit,Yes,Tuesday,Morning,21
+83,Blood Pressure,No,Wednesday,Afternoon,16
+13,Diabetes,Yes,Wednesday,Afternoon,21
+15,General Consultation,Yes,Monday,Morning,13
+46,First Visit,Yes,Friday,Afternoon,20
+44,Diabetes,Yes,Thursday,Afternoon,22
+50,First Visit,Yes,Thursday,Evening,21
+17,Fever,Yes,Monday,Afternoon,12
+73,First Visit,Yes,Tuesday,Evening,31
+17,First Visit,Yes,Thursday,Morning,32
+6,General Consultation,No,Saturday,Afternoon,11
+68,Blood Pressure,No,Friday,Evening,13
+85,Blood Pressure,No,Wednesday,Evening,16

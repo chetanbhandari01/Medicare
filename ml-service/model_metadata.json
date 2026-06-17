@@ -1,0 +1,37 @@
+{
+  "features": [
+    "age",
+    "visitTypeEncoded",
+    "firstVisitEncoded",
+    "dayOfWeekEncoded",
+    "timeOfDayEncoded"
+  ],
+  "visit_type_map": {
+    "General Consultation": 0,
+    "Fever": 1,
+    "Diabetes": 2,
+    "Blood Pressure": 3,
+    "Skin Consultation": 4,
+    "Child Consultation": 5,
+    "Follow-up": 6,
+    "First Visit": 7
+  },
+  "day_map": {
+    "Monday": 0,
+    "Tuesday": 1,
+    "Wednesday": 2,
+    "Thursday": 3,
+    "Friday": 4,
+    "Saturday": 5,
+    "Sunday": 6
+  },
+  "time_map": {
+    "Morning": 0,
+    "Afternoon": 1,
+    "Evening": 2
+  },
+  "r2_score": 0.713638454204458,
+  "mae_minutes": 2.5891731328120966,
+  "n_estimators": 200,
+  "training_samples": 480
+}
