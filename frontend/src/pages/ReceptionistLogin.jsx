@@ -133,13 +133,13 @@ export default function ReceptionistLogin() {
           </form>
 
           {/* Info hint */}
-          {/* <div className="mt-5 p-3 rounded-xl bg-white/5 border border-white/5">
+          <div className="mt-5 p-3 rounded-xl bg-white/5 border border-white/5">
             <p className="text-xs text-slate-500 text-center">
               Default: <span className="text-slate-400 font-mono">receptionist</span> / <span className="text-slate-400 font-mono">1234</span>
               <br />
               Change credentials in <span className="text-brand-500">backend/.env</span>
             </p>
-          </div> */}
+          </div>
 
         </div>
 
