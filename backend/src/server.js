@@ -20,18 +20,33 @@ const learningRouter = require('./routes/learning');
 const app = express();
 const server = http.createServer(app);
 
+// ── CORS Origins ──────────────────────────────────────────────────────────────
+// CLIENT_URL can be a comma-separated list: "https://app.vercel.app,http://localhost:5173"
+const allowedOrigins = (process.env.CLIENT_URL || 'http://localhost:5173')
+  .split(',')
+  .map(o => o.trim())
+  .filter(Boolean);
+
+function corsOriginCheck(origin, callback) {
+  // Allow requests with no origin (mobile apps, Postman, health checks)
+  if (!origin) return callback(null, true);
+  if (allowedOrigins.includes(origin)) return callback(null, true);
+  callback(new Error(`Origin ${origin} not allowed by CORS`));
+}
+
 // ── Socket.IO Setup ───────────────────────────────────────────────────────────
 const io = new Server(server, {
   cors: {
-    origin: process.env.CLIENT_URL || 'http://localhost:5173',
+    origin: allowedOrigins,
     methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE'],
+    credentials: true,
   },
 });
 
 app.set('io', io);
 
 // ── Middleware ────────────────────────────────────────────────────────────────
-app.use(cors({ origin: process.env.CLIENT_URL || 'http://localhost:5173' }));
+app.use(cors({ origin: corsOriginCheck, credentials: true }));
 app.use(express.json());
 
 // ── Routes ────────────────────────────────────────────────────────────────────

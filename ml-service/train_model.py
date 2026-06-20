@@ -12,7 +12,10 @@ import joblib
 import os
 
 # ── Load dataset ──────────────────────────────────────────────────────────────
-CSV_PATH = os.path.join(os.path.dirname(__file__), '..', 'medicare_consultation_dataset.csv')
+# Check local directory first (Railway), then parent directory (local dev)
+CSV_LOCAL  = os.path.join(os.path.dirname(__file__), 'medicare_consultation_dataset.csv')
+CSV_PARENT = os.path.join(os.path.dirname(__file__), '..', 'medicare_consultation_dataset.csv')
+CSV_PATH   = CSV_LOCAL if os.path.exists(CSV_LOCAL) else CSV_PARENT
 df = pd.read_csv(CSV_PATH)
 print(f"Dataset loaded: {len(df)} records")
 print(df.head())
