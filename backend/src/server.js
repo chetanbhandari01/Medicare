@@ -21,23 +21,40 @@ const app = express();
 const server = http.createServer(app);
 
 // ── CORS Origins ──────────────────────────────────────────────────────────────
-// CLIENT_URL can be a comma-separated list: "https://app.vercel.app,http://localhost:5173"
+// CLIENT_URL can be comma-separated and supports wildcards:
+//   "https://*.vercel.app,http://localhost:5173"
 const allowedOrigins = (process.env.CLIENT_URL || 'http://localhost:5173')
   .split(',')
   .map(o => o.trim())
   .filter(Boolean);
 
+// Convert wildcard entries (e.g. "https://*.vercel.app") into RegExp matchers
+const originMatchers = allowedOrigins.map(o => {
+  if (o.includes('*')) {
+    // Escape dots, replace * with regex wildcard
+    const pattern = o.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '[^.]+');
+    return new RegExp(`^${pattern}$`);
+  }
+  return o; // exact string
+});
+
+function isOriginAllowed(origin) {
+  return originMatchers.some(m =>
+    typeof m === 'string' ? m === origin : m.test(origin)
+  );
+}
+
 function corsOriginCheck(origin, callback) {
   // Allow requests with no origin (mobile apps, Postman, health checks)
   if (!origin) return callback(null, true);
-  if (allowedOrigins.includes(origin)) return callback(null, true);
+  if (isOriginAllowed(origin)) return callback(null, true);
   callback(new Error(`Origin ${origin} not allowed by CORS`));
 }
 
 // ── Socket.IO Setup ───────────────────────────────────────────────────────────
 const io = new Server(server, {
   cors: {
-    origin: allowedOrigins,
+    origin: (origin, cb) => corsOriginCheck(origin, cb),
     methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE'],
     credentials: true,
   },
