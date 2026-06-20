@@ -133,11 +133,9 @@ export default function ReceptionistLogin() {
           </form>
 
           {/* Info hint */}
-          <div className="mt-5 p-3 rounded-xl bg-white/5 border border-white/5">
-            <p className="text-xs text-slate-500 text-center">
-              Default: <span className="text-slate-400 font-mono">receptionist</span> / <span className="text-slate-400 font-mono">1234</span>
-              <br />
-            
+          <div className="mt-5 p-3 rounded-xl bg-white/10 border border-white/10">
+            <p className="text-sm text-slate-300 text-center">
+              Username: <span className="text-emerald-400 font-mono font-semibold">receptionist</span> &nbsp;|&nbsp; PIN: <span className="text-emerald-400 font-mono font-semibold">1234</span>
             </p>
           </div>
 
